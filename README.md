@@ -51,7 +51,7 @@ Python-OOPs/
 1. Clone this repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+
 ```
 
 2. Navigate to the project folder:
